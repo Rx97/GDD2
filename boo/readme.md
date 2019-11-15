@@ -1,12 +1,12 @@
-Premise: You are an angelic corgi fighting your way through hell and demonic corgis to retrieve the Holy Bone.
+Premise: You are Luigi and you have become lost in the woods. All you have is a flashlight with limited batteries and must collect coins
+to purchase stars while avoiding Boos to return home.
 
-Gameplay: It is a mixture of 3D platforming and Boss fights where the each is done in 3 segments.
+Gameplay: You will explore a dark spooky environment in search of spare batteries, coins and shops.
+You must collect coins to purchase a total of 3 stars from the shops to safely return home.
+Shops are randomly spawned in and will randomly relocate after each purchase and you must explore the woods to find them.
 
-While platforming, you must avoid dropping into the lava or getting hit by fireballs or you die.
+There will be patroling Boos that you must avoid otherwise if they catch you, the game will end.
 
-During the boss fights, avoid the fireballs the boss shoots out while depleting the boss's HP.
+Controls: WASD is used for movement and left click can be used to toggle the brightness of the flashlight between off, dim, and bright.
 
-Controls: WASD is used for movement in both phases while space is used to jump during platforming 
-and mouse left click is used to shoot fireballs of your own.
-
-Zip of the build of The Good Boy: https://drive.google.com/file/d/1z4ZzqvEU6RG-eW_CA0WYin-_Wl8SBjzF/view?usp=sharing
+Zip of the build of Boo: https://drive.google.com/file/d/1w9_UZlBp1E59Gca6aALyw-9llylOp8mn/view?usp=sharing
